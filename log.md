@@ -1,3 +1,3 @@
-WIB: Monday, 24 August 2026 05.10.00 UTC
-WITA: Monday, 24 August 2026 06.10.00 UTC
-WIT: Monday, 24 August 2026 07.10.00 UTC
+WIB: Monday, 24 August 2026 06.10.04 UTC
+WITA: Monday, 24 August 2026 07.10.04 UTC
+WIT: Monday, 24 August 2026 08.10.04 UTC
